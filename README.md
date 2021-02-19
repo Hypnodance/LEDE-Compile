@@ -13,3 +13,4 @@ Build OpenWrt from Lean's source using GitHub Actions.
 ## Acknowledgments
 
 - Original Author: [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
+- [Lean's OpenWrt & Packages](https://github.com/coolsnowwolf/lede)
