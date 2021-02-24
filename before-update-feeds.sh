@@ -1,13 +1,12 @@
 #!/bin/bash
 #
-# Feed Source Modify(Before Update feeds)
+# Load custom configuration before update feeds
 #
 
 # Uncomment a feed source
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
 # Add a feed source
-#sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 sed -i '$a src-git tony https://github.com/CuteTony/OpenWrt-Packages' feeds.conf.default
 
 # Add luci-app-cpufreq

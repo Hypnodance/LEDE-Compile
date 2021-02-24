@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Extra Config (After Update feeds)
+# Load custom configuration after install feeds
 #
 
 # Modify default IP
