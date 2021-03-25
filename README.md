@@ -1,4 +1,4 @@
-# LEDE-Compile
+# LEDE-Compile for Phicomm N1
 
 Build OpenWrt from Lean's source using GitHub Actions.
 
